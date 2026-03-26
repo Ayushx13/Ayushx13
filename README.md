@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a second-year undergraduate student at IIT Dharwad with a strong interest in software development and problem solving. My primary focus lies in backend engineering, where I work with the MERN stack to build scalable and efficient applications.<br>I am currently strengthening my foundation in Data Structures and Algorithms, with a goal of excelling in software engineering roles. Alongside this, I am exploring concepts in distributed systems and computer networking to deepen my understanding of system design.<br>I am actively seeking opportunities to collaborate on backend-focused projects and continue improving through consistent practice on platforms like LeetCode.
 
 
